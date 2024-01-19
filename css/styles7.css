@@ -412,7 +412,7 @@ body {
   fill: currentColor;
 }
 
-/* 1st section */
+/* hero section */
 .hero-section {
   background-color: var(--navyblue, #2e2f42);
   padding: 112px 0;
